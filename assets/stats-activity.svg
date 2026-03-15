@@ -1,0 +1,57 @@
+<svg width="900" height="130" viewBox="0 0 900 130" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="line" x1="90" y1="65" x2="810" y2="65" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22C55E"/>
+      <stop offset="0.5" stop-color="#34D399"/>
+      <stop offset="1" stop-color="#86EFAC"/>
+    </linearGradient>
+    <filter id="glow" x="0" y="0" width="900" height="130" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="130" rx="18" fill="#0B1220"/>
+  <rect x="24" y="20" width="852" height="90" rx="14" fill="#020617" stroke="#1F2937"/>
+
+  <g opacity="0.12">
+    <path d="M70 35V95" stroke="#22C55E"/>
+    <path d="M170 35V95" stroke="#22C55E"/>
+    <path d="M270 35V95" stroke="#22C55E"/>
+    <path d="M370 35V95" stroke="#22C55E"/>
+    <path d="M470 35V95" stroke="#22C55E"/>
+    <path d="M570 35V95" stroke="#22C55E"/>
+    <path d="M670 35V95" stroke="#22C55E"/>
+    <path d="M770 35V95" stroke="#22C55E"/>
+    <path d="M70 50H830" stroke="#22C55E"/>
+    <path d="M70 65H830" stroke="#22C55E"/>
+    <path d="M70 80H830" stroke="#22C55E"/>
+  </g>
+
+  <path d="M90 80L175 68L260 73L345 46L430 58L515 40L600 52L685 34L770 50L810 42" stroke="url(#line)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
+
+  <circle cx="345" cy="46" r="5" fill="#22C55E">
+    <animate attributeName="r" values="5;9;5" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="515" cy="40" r="5" fill="#34D399">
+    <animate attributeName="r" values="5;9;5" dur="1.8s" begin="0.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="685" cy="34" r="5" fill="#86EFAC">
+    <animate attributeName="r" values="5;9;5" dur="1.8s" begin="0.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <rect x="98" y="28" width="16" height="70" rx="4" fill="#22C55E" opacity="0.16">
+    <animate attributeName="height" values="52;70;60;74;52" dur="3.2s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="46;28;38;24;46" dur="3.2s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="122" y="28" width="16" height="70" rx="4" fill="#34D399" opacity="0.16">
+    <animate attributeName="height" values="62;44;74;58;62" dur="2.7s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="36;54;24;40;36" dur="2.7s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="70" y="112" fill="#94A3B8" font-family="'Fira Code', monospace" font-size="13">github.metrics()</text>
+  <text x="685" y="112" fill="#86EFAC" font-family="'Fira Code', monospace" font-size="13">theme = "green"</text>
+</svg>
