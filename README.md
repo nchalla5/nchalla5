@@ -6,72 +6,30 @@
 
 ## About Me
 
-- Software engineer focused on backend systems, cloud infrastructure, and polished product experiences.
-- Interested in distributed systems, platform engineering, reliability, and developer productivity.
+<p align="center">
+  Software engineer focused on <strong>backend systems</strong>, <strong>cloud infrastructure</strong>, and <strong>polished product experiences</strong>.
+</p>
+
+<p align="center">
+  <code>Distributed Systems</code>
+  <code>Platform Engineering</code>
+  <code>Reliability</code>
+  <code>Developer Productivity</code>
+</p>
 
 ## Tech Stack
 
-<p align="center">
-  <strong>Programming</strong>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go" alt="Go" title="Go" height="48" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" height="48" />
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" height="48" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" height="48" />
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" height="48" />
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" height="48" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" height="48" />
-</p>
+| Category | Tools |
+| --- | --- |
+| **Programming** | <img src="https://skillicons.dev/icons?i=go" alt="Go" title="Go" height="42" /> <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" height="42" /> <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" height="42" /> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" height="42" /> <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" height="42" /> <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" height="42" /> <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" height="42" /> |
+| **Back-End** | <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" height="42" /> <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" title="Spring Boot" height="42" /> <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" title="GraphQL" height="42" /> <img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" title="Kafka" height="42" /> |
+| **Front-End** | <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" height="42" /> <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" height="42" /> <img src="https://skillicons.dev/icons?i=angular" alt="Angular" title="Angular" height="42" /> <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" height="42" /> <img src="https://skillicons.dev/icons?i=redux" alt="Redux" title="Redux" height="42" /> <img src="https://skillicons.dev/icons?i=jest" alt="Jest" title="Jest" height="42" /> |
+| **Datastores** | <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" height="42" /> <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" height="42" /> <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" height="42" /> <img src="https://skillicons.dev/icons?i=redis" alt="Redis" title="Redis" height="42" /> <img src="https://skillicons.dev/icons?i=elasticsearch" alt="Elasticsearch" title="Elasticsearch" height="42" /> |
+| **Cloud and DevOps** | <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" height="42" /> <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" height="42" /> <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" title="Kubernetes" height="42" /> <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" title="Terraform" height="42" /> <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" title="GitHub Actions" height="42" /> |
 
-<p align="center">
-  <strong>Back-End</strong>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" height="48" />
-  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" title="Spring Boot" height="48" />
-  <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" title="GraphQL" height="48" />
-  <img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" title="Kafka" height="48" />
-</p>
-
-<p align="center">
-  <strong>Front-End</strong>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" height="48" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" height="48" />
-  <img src="https://skillicons.dev/icons?i=angular" alt="Angular" title="Angular" height="48" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" height="48" />
-  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" title="Redux" height="48" />
-  <img src="https://skillicons.dev/icons?i=jest" alt="Jest" title="Jest" height="48" />
-</p>
-
-<p align="center">
-  <strong>Datastores</strong>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" height="48" />
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" height="48" />
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" height="48" />
-  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" title="Redis" height="48" />
-  <img src="https://skillicons.dev/icons?i=elasticsearch" alt="Elasticsearch" title="Elasticsearch" height="48" />
-</p>
-
-<p align="center">
-  <strong>Cloud and DevOps</strong>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" height="48" />
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" height="48" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" title="Kubernetes" height="48" />
-  <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" title="Terraform" height="48" />
-  <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" title="GitHub Actions" height="48" />
-</p>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nchalla5&style=for-the-badge&color=22c55e&label=PROFILE%20VIEWS" alt="Profile views" />
