@@ -6,12 +6,33 @@
     </linearGradient>
     <linearGradient id="glow" x1="80" y1="50" x2="820" y2="170" gradientUnits="userSpaceOnUse">
       <stop stop-color="#22C55E"/>
-      <stop offset="0.5" stop-color="#38BDF8"/>
-      <stop offset="1" stop-color="#A855F7"/>
+      <stop offset="0.55" stop-color="#86EFAC"/>
+      <stop offset="1" stop-color="#38BDF8"/>
     </linearGradient>
     <filter id="shadow" x="-20" y="-20" width="940" height="260" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
       <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#020617" flood-opacity="0.55"/>
     </filter>
+
+    <clipPath id="clip-line-1">
+      <rect x="58" y="80" width="0" height="24">
+        <animate attributeName="width" from="0" to="430" begin="0s" dur="2s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip-line-2">
+      <rect x="58" y="110" width="0" height="22">
+        <animate attributeName="width" from="0" to="302" begin="2.2s" dur="1.3s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip-line-3">
+      <rect x="58" y="134" width="0" height="22">
+        <animate attributeName="width" from="0" to="430" begin="3.7s" dur="1.7s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip-line-4">
+      <rect x="58" y="158" width="0" height="22">
+        <animate attributeName="width" from="0" to="640" begin="5.7s" dur="2.2s" fill="freeze"/>
+      </rect>
+    </clipPath>
   </defs>
 
   <rect width="900" height="220" rx="20" fill="url(#bg)"/>
@@ -26,12 +47,19 @@
 
   <text x="130" y="63" fill="#94A3B8" font-family="'Fira Code', monospace" font-size="16">nithin@portfolio:~</text>
 
-  <text x="58" y="98" fill="#22C55E" font-family="'Fira Code', monospace" font-size="18">$ ./build --systems reliable --ship fast</text>
-  <text x="58" y="128" fill="#E2E8F0" font-family="'Fira Code', monospace" font-size="16">Initializing distributed systems...</text>
-  <text x="58" y="152" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="16">Loading cloud, backend, and developer tooling...</text>
-  <text x="58" y="176" fill="url(#glow)" font-family="'Fira Code', monospace" font-size="16">status: curious = true | latency = optimized | shipping = continuous</text>
+  <text x="58" y="98" fill="#22C55E" font-family="'Fira Code', monospace" font-size="18" clip-path="url(#clip-line-1)">$ ./build --systems reliable --ship fast</text>
+  <text x="58" y="128" fill="#E2E8F0" font-family="'Fira Code', monospace" font-size="16" clip-path="url(#clip-line-2)">Initializing distributed systems...</text>
+  <text x="58" y="152" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="16" clip-path="url(#clip-line-3)">Loading cloud, backend, and developer tooling...</text>
+  <text x="58" y="176" fill="url(#glow)" font-family="'Fira Code', monospace" font-size="16" clip-path="url(#clip-line-4)">status: curious = true | latency = optimized | shipping = continuous</text>
 
-  <rect x="734" y="84" width="14" height="22" fill="#22C55E">
-    <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+  <rect x="58" y="84" width="12" height="22" fill="#22C55E">
+    <animate attributeName="x" values="58;488;488;58;360;360;58;488;488;58;698;698" keyTimes="0;0.25;0.275;0.275;0.4375;0.4625;0.4625;0.675;0.7125;0.7125;0.9875;1" dur="8s" fill="freeze"/>
+    <animate attributeName="y" values="84;84;84;114;114;114;138;138;138;162;162;162" keyTimes="0;0.25;0.275;0.275;0.4375;0.4625;0.4625;0.675;0.7125;0.7125;0.9875;1" dur="8s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;1;0;0;1;0;0;1;0;0;1;0" keyTimes="0;0.25;0.275;0.275;0.4375;0.4625;0.4625;0.675;0.7125;0.7125;0.9875;1" dur="8s" fill="freeze"/>
+  </rect>
+
+  <rect x="698" y="162" width="12" height="22" fill="#22C55E" opacity="0">
+    <set attributeName="opacity" to="1" begin="8s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0;1;0;1" begin="8s" dur="1.1s" repeatCount="indefinite"/>
   </rect>
 </svg>
