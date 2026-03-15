@@ -6,10 +6,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nithin-challa">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&labelColor=0A66C2&logo=https%3A%2F%2Fcdn.simpleicons.org%2Flinkedin%2Fwhite&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="42" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:challanithin2000@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&labelColor=EA4335&logo=https%3A%2F%2Fcdn.simpleicons.org%2Fgmail%2Fwhite&logoColor=white" alt="Gmail" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="42" />
   </a>
 </p>
 
@@ -64,10 +65,11 @@ ML project for classifying flight arrival outcomes.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nithin-challa">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&labelColor=0A66C2&logo=https%3A%2F%2Fcdn.simpleicons.org%2Flinkedin%2Fwhite&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="42" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:challanithin2000@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&labelColor=EA4335&logo=https%3A%2F%2Fcdn.simpleicons.org%2Fgmail%2Fwhite&logoColor=white" alt="Gmail" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="42" />
   </a>
 </p>
 
