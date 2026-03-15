@@ -1,0 +1,23 @@
+<svg width="900" height="100" viewBox="0 0 900 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="pulse" x1="120" y1="50" x2="780" y2="50" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A66C2"/>
+      <stop offset="0.5" stop-color="#EA4335"/>
+      <stop offset="1" stop-color="#F89F1B"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="100" rx="18" fill="#0F172A"/>
+  <path d="M120 50H250L285 26L330 74L375 38L420 50H780" stroke="url(#pulse)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="250" cy="50" r="6" fill="#0A66C2">
+    <animate attributeName="r" values="6;9;6" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="330" cy="74" r="6" fill="#EA4335">
+    <animate attributeName="r" values="6;9;6" dur="1.8s" begin="0.3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="420" cy="50" r="6" fill="#F89F1B">
+    <animate attributeName="r" values="6;9;6" dur="1.8s" begin="0.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="120" y="82" fill="#94A3B8" font-family="'Fira Code', monospace" font-size="14">connect()</text>
+  <text x="694" y="82" fill="#94A3B8" font-family="'Fira Code', monospace" font-size="14">collaborate = true</text>
+</svg>

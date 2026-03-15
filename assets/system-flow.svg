@@ -1,0 +1,32 @@
+<svg width="900" height="110" viewBox="0 0 900 110" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="flow" x1="90" y1="55" x2="810" y2="55" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22C55E"/>
+      <stop offset="0.5" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="110" rx="18" fill="#0F172A"/>
+  <rect x="24" y="18" width="852" height="74" rx="14" fill="#020617" stroke="#1E293B"/>
+
+  <circle cx="115" cy="55" r="11" fill="#22C55E"/>
+  <circle cx="310" cy="55" r="11" fill="#38BDF8"/>
+  <circle cx="505" cy="55" r="11" fill="#A855F7"/>
+  <circle cx="700" cy="55" r="11" fill="#F59E0B"/>
+
+  <path d="M126 55H299" stroke="url(#flow)" stroke-width="4" stroke-linecap="round" stroke-dasharray="10 10">
+    <animate attributeName="stroke-dashoffset" from="40" to="0" dur="2s" repeatCount="indefinite"/>
+  </path>
+  <path d="M321 55H494" stroke="url(#flow)" stroke-width="4" stroke-linecap="round" stroke-dasharray="10 10">
+    <animate attributeName="stroke-dashoffset" from="40" to="0" dur="2s" repeatCount="indefinite"/>
+  </path>
+  <path d="M516 55H689" stroke="url(#flow)" stroke-width="4" stroke-linecap="round" stroke-dasharray="10 10">
+    <animate attributeName="stroke-dashoffset" from="40" to="0" dur="2s" repeatCount="indefinite"/>
+  </path>
+
+  <text x="88" y="85" fill="#94A3B8" font-family="'Fira Code', monospace" font-size="13">build</text>
+  <text x="276" y="85" fill="#94A3B8" font-family="'Fira Code', monospace" font-size="13">deploy</text>
+  <text x="476" y="85" fill="#94A3B8" font-family="'Fira Code', monospace" font-size="13">scale</text>
+  <text x="668" y="85" fill="#94A3B8" font-family="'Fira Code', monospace" font-size="13">optimize</text>
+</svg>

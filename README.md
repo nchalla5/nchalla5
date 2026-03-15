@@ -1,10 +1,6 @@
 # Hi, I'm Nithin Reddy Challa
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2E8BFF&center=true&vCenter=true&width=900&lines=Software+Engineer;Backend+%26+Platform+Engineer;Building+reliable+systems+with+real-world+impact" alt="Typing intro" />
-</p>
-
-<p align="center">
   <img src="./assets/terminal-banner.svg" alt="Animated terminal banner" width="900" />
 </p>
 
@@ -19,6 +15,10 @@
 - Cut database footprint by **99.5%** with a Go-based garbage-collection service for high-volume task data.
 - Improved CI/CD efficiency by reducing median runtime by **40%** at ResMed.
 - Built a real-time ingestion pipeline handling **10,000+ events per minute** at Oracle.
+
+<p align="center">
+  <img src="./assets/system-flow.svg" alt="Animated system flow" width="900" />
+</p>
 
 ## Tech Stack
 
@@ -59,6 +59,10 @@ ML project for classifying flight arrival outcomes.
 - B.E. in Computer Science, Osmania University
 
 ## Connect With Me
+
+<p align="center">
+  <img src="./assets/contact-pulse.svg" alt="Animated contact pulse" width="900" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nithin-challa">
