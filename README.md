@@ -5,9 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/nchalla5"><img src="https://img.shields.io/badge/GitHub-nchalla5-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/nithin-challa"><img src="https://img.shields.io/badge/LinkedIn-Nithin%20Challa-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <img src="https://komarev.com/ghpvc/?username=nchalla5&style=for-the-badge&color=0e75b6" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/nithin-challa"><img src="https://img.shields.io/badge/My%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn" /></a>
 </p>
 
 ## About Me
@@ -25,7 +23,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,java,python,js,ts,react,nextjs,nodejs,express,spring,graphql,mysql,postgres,mongodb,redis,dynamodb,docker,kubernetes,terraform,aws,git,githubactions&perline=11" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=go,java,python,js,ts,react,nextjs,nodejs,express,spring,graphql,mysql,postgres,mongodb,redis,dynamodb,docker,kubernetes,terraform,aws,git&perline=11" alt="Tech stack icons" />
 </p>
 
 ## Featured Projects
@@ -34,30 +32,16 @@
 Used-book marketplace built with Go and React.
 
 - Stack: Go, React, REST APIs, JWT, DynamoDB, S3.
-- Repo: [BookMart](https://github.com/nchalla5/BookMart)
 
 ### Scrum Simulator
 Java desktop app for modeling Scrum workflows.
 
 - Stack: Java, Swing, Maven, MySQL, JDBC, JUnit 5, Mockito.
-- Repo: [Scrum-Simulator](https://github.com/nchalla5/Scrum-Simulator)
 
 ### Flight Status Predictor
 ML project for classifying flight arrival outcomes.
 
 - Stack: Python, pandas, scikit-learn, XGBoost, matplotlib.
-- Repo: [Flight-Status-Predictor](https://github.com/nchalla5/Flight-Status-Predictor)
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nchalla5&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nchalla5&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nchalla5&theme=transparent&hide_border=true" alt="GitHub streak" />
-</p>
 
 ## Experience
 
@@ -73,9 +57,9 @@ ML project for classifying flight arrival outcomes.
 
 ## Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/nithin-challa">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/My%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn" />
   </a>
 </p>
 
