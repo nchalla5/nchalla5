@@ -5,13 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nithin-challa">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="48" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:nchalla5@asu.edu">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="48" />
-  </a>
+  <img src="./assets/terminal-banner.svg" alt="Animated terminal banner" width="900" />
 </p>
 
 ## About Me
@@ -73,6 +67,10 @@ ML project for classifying flight arrival outcomes.
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:nchalla5@asu.edu">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="48" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/nithinreddychalla77/">
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" alt="LeetCode" height="48" />
   </a>
 </p>
 
