@@ -1,11 +1,12 @@
 # Hi, I'm Nithin Reddy Challa
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2E8BFF&center=true&vCenter=true&width=900&lines=Software+Engineer;Backend+%26+Platform+Engineer;Building+reliable+systems+with+real-world+impact" alt="Typing intro" />
+  <strong>Software Engineer focused on backend systems, cloud infrastructure, and reliable products.</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nithin-challa"><img src="https://img.shields.io/badge/My%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/nithin-challa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:challanithin2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 ## About Me
@@ -59,8 +60,11 @@ ML project for classifying flight arrival outcomes.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nithin-challa">
-    <img src="https://img.shields.io/badge/My%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:challanithin2000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
-If you'd like to collaborate or talk software, reach out on [LinkedIn](https://www.linkedin.com/in/nithin-challa).
+If you'd like to collaborate or talk software, reach out on [LinkedIn](https://www.linkedin.com/in/nithin-challa) or by email at [challanithin2000@gmail.com](mailto:challanithin2000@gmail.com).
