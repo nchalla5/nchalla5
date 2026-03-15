@@ -9,7 +9,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="48" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:challanithin2000@gmail.com">
+  <a href="mailto:nchalla5@asu.edu">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="48" />
   </a>
 </p>
@@ -38,23 +38,26 @@
 Used-book marketplace built with Go and React.
 
 - Stack: Go, React, REST APIs, JWT, DynamoDB, S3.
+- Repo: [BookMart](https://github.com/nchalla5/BookMart)
 
 ### Scrum Simulator
 Java desktop app for modeling Scrum workflows.
 
 - Stack: Java, Swing, Maven, MySQL, JDBC, JUnit 5, Mockito.
+- Repo: [Scrum-Simulator](https://github.com/nchalla5/Scrum-Simulator)
 
 ### Flight Status Predictor
 ML project for classifying flight arrival outcomes.
 
 - Stack: Python, pandas, scikit-learn, XGBoost, matplotlib.
+- Repo: [Flight-Status-Predictor](https://github.com/nchalla5/Flight-Status-Predictor)
 
 ## Experience
 
-- Sigma
-- Auto BIM Route AI
-- ResMed
-- Oracle
+- Software Engineer, Sigma | Oct 2025 - Jan 2026
+- Software Engineer Intern, Auto BIM Route AI | Jan 2025 - May 2025
+- Platform Engineer Intern, ResMed | May 2024 - Dec 2024
+- Associate Software Developer / Software Engineer Intern, Oracle | Jan 2021 - Jul 2023
 
 ## Education
 
@@ -68,9 +71,9 @@ ML project for classifying flight arrival outcomes.
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="48" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:challanithin2000@gmail.com">
+  <a href="mailto:nchalla5@asu.edu">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="48" />
   </a>
 </p>
 
-If you'd like to collaborate or talk software, reach out on [LinkedIn](https://www.linkedin.com/in/nithin-challa) or by email at [challanithin2000@gmail.com](mailto:challanithin2000@gmail.com).
+If you'd like to collaborate or talk software, reach out on [LinkedIn](https://www.linkedin.com/in/nithin-challa), by email at [nchalla5@asu.edu](mailto:nchalla5@asu.edu), or at [challanithin2000@gmail.com](mailto:challanithin2000@gmail.com).
