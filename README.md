@@ -1,16 +1,16 @@
 # Hi, I'm Nithin Reddy Challa
 
 <p align="center">
-  <strong>Software Engineer focused on backend systems, cloud infrastructure, and reliable products.</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2E8BFF&center=true&vCenter=true&width=900&lines=Software+Engineer;Backend+%26+Platform+Engineer;Building+reliable+systems+with+real-world+impact" alt="Typing intro" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nithin-challa">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="42" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="48" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:challanithin2000@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="42" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="48" />
   </a>
 </p>
 
@@ -65,11 +65,11 @@ ML project for classifying flight arrival outcomes.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nithin-challa">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="42" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="48" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:challanithin2000@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="42" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="48" />
   </a>
 </p>
 
