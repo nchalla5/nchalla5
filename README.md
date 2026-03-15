@@ -88,23 +88,20 @@
 
 ## Featured Projects
 
-### Book Mart
-Used-book marketplace built with Go and React.
+### [Book Mart](https://github.com/nchalla5/BookMart)
+Marketplace for buying and selling used books with a full-stack Go and React architecture.
+Built with authentication, listing flows, checkout, and AWS-backed storage.
+`Go` `React` `REST APIs` `JWT` `DynamoDB` `S3`
 
-- Stack: Go, React, REST APIs, JWT, DynamoDB, S3.
-- Repo: [BookMart](https://github.com/nchalla5/BookMart)
+### [Scrum Simulator](https://github.com/nchalla5/Scrum-Simulator)
+Java desktop application for simulating Scrum roles, sprint planning, and project workflows.
+Designed around role-based actions, reporting, and team collaboration features.
+`Java` `Swing` `Maven` `MySQL` `JDBC` `JUnit 5` `Mockito`
 
-### Scrum Simulator
-Java desktop app for modeling Scrum workflows.
-
-- Stack: Java, Swing, Maven, MySQL, JDBC, JUnit 5, Mockito.
-- Repo: [Scrum-Simulator](https://github.com/nchalla5/Scrum-Simulator)
-
-### Flight Status Predictor
-ML project for classifying flight arrival outcomes.
-
-- Stack: Python, pandas, scikit-learn, XGBoost, matplotlib.
-- Repo: [Flight-Status-Predictor](https://github.com/nchalla5/Flight-Status-Predictor)
+### [Flight Status Predictor](https://github.com/nchalla5/Flight-Status-Predictor)
+Machine learning project for predicting flight arrival outcomes from historical airline data.
+Focused on feature engineering, model comparison, and classification performance.
+`Python` `pandas` `scikit-learn` `XGBoost` `matplotlib`
 
 ## Experience
 
