@@ -93,4 +93,4 @@ Focused on feature engineering, model comparison, and classification performance
   </a>
 </p>
 
-If you'd like to collaborate or talk software, reach out on [LinkedIn](https://www.linkedin.com/in/nithin-challa), by email at [nchalla5@asu.edu](mailto:nchalla5@asu.edu), or at [challanithin2000@gmail.com](mailto:challanithin2000@gmail.com).
+If you'd like to collaborate or talk software, reach out on [LinkedIn](https://www.linkedin.com/in/nithin-challa), by email at [nchalla5@asu.edu](mailto:nchalla5@asu.edu), or at [challa.nithin.email@gmail.com](mailto:challa.nithin.email@gmail.com).
