@@ -44,6 +44,14 @@
   <img src="https://streak-stats.demolab.com?user=nchalla5&theme=transparent&hide_border=true&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0" alt="GitHub streak" />
 </p>
 
+## Portfolio
+
+<p align="center">
+  <a href="https://nithin-challa.vercel.app/">
+    <img src="./assets/portfolio-hero.svg" alt="Visit Portfolio" width="900" />
+  </a>
+</p>
+
 ## Featured Projects
 
 ### [Book Mart](https://github.com/nchalla5/BookMart)
