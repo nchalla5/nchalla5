@@ -71,10 +71,73 @@ Focused on feature engineering, model comparison, and classification performance
 
 ## Experience
 
-- Software Engineer, Sigma | Oct 2025 - Jan 2026
-- Software Engineer Intern, Auto BIM Route AI | Jan 2025 - May 2025
-- Platform Engineer Intern, ResMed | May 2024 - Dec 2024
-- Associate Software Developer / Software Engineer Intern, Oracle | Jan 2021 - Jul 2023
+<table align="center" width="100%">
+  <tr>
+    <td width="42%" align="right" valign="middle">
+      <strong>Oracle</strong><br />
+      Software Engineer Intern<br />
+      <sub>Jan 2021 - Jun 2021</sub><br />
+      <sub>Enterprise software engineering</sub>
+    </td>
+    <td width="16%" align="center" valign="middle">
+      <img src="./assets/oracle.png" alt="Oracle logo" height="42" /><br />
+      <strong>2021</strong><br />
+      <code>|</code>
+    </td>
+    <td width="42%"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="center"><code>|</code></td>
+    <td align="left" valign="middle">
+      <strong>Oracle</strong><br />
+      Associate Software Developer<br />
+      <sub>Jul 2021 - Jul 2023</sub><br />
+      <sub>Enterprise software engineering</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle">
+      <strong>ResMed</strong><br />
+      Platform Engineer Intern<br />
+      <sub>May 2024 - Dec 2024</sub><br />
+      <sub>Cloud and platform tooling</sub>
+    </td>
+    <td align="center" valign="middle">
+      <img src="./assets/resmed.png" alt="ResMed logo" height="42" /><br />
+      <strong>2024</strong><br />
+      <code>|</code>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="center" valign="middle">
+      <img src="./assets/auto-bim-route-ai.png" alt="Auto BIM Route AI logo" height="42" /><br />
+      <strong>2025</strong><br />
+      <code>|</code>
+    </td>
+    <td align="left" valign="middle">
+      <strong>Auto BIM Route AI</strong><br />
+      Software Engineer Intern<br />
+      <sub>Jan 2025 - May 2025</sub><br />
+      <sub>Product development</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle">
+      <strong>Sigma</strong><br />
+      Software Engineer<br />
+      <sub>Oct 2025 - Jan 2026</sub><br />
+      <sub>Production engineering</sub>
+    </td>
+    <td align="center" valign="middle">
+      <img src="./assets/sigma.png" alt="Sigma logo" height="42" /><br />
+      <strong>2025 - 2026</strong>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
 ## Education
 
